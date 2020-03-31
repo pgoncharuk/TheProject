@@ -1,0 +1,160 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blinddate.com" resolutions="1x" timestamp="1585697098774">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="129987969" ref="index"/>
+    <file name="nomq_index.css" crc="4237319270" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="layer 8.jpg" crc="3942541402" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stickfiguresdrawingsourcefile-crop-u53514.png" crc="4011367059" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="icon-material-supervisor-account.svg" crc="3905428007" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon material-supervisor-account_poster_.png" crc="3819930833" ref="phone>index"/>
+    <file name="icons8_long_arrow_left_50.png" crc="3974777448" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_metro_settings_voice.png" crc="370515536" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component_1___4@2x-crop-u53542.png" crc="214165389" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_awesome_heart.png" crc="3962563172" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask_group_2-crop-u53544.png" crc="4276925350" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_zocial_instagram.png" crc="231828135" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_awesome_twitter_square.png" crc="3839598183" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_awesome_facebook_square.png" crc="4217703418" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stickfiguresdrawingsourcefile-crop-u45817.png" crc="4100808261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component_1___4@2x-crop-u48067.png" crc="37196274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask_group_2-crop-u48976.png" crc="4280221282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stickfiguresdrawingsourcefile-crop-u458172.png" crc="451295992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component_1___4@2x-crop-u480672.png" crc="117711521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask_group_2-crop-u489762.png" crc="3975792854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stickfiguresdrawingsourcefile-crop-u458173.png" crc="4114582285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component_1___4@2x-crop-u480673.png" crc="4177643397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask_group_2-crop-u489763.png" crc="3977004684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stickfiguresdrawingsourcefile-crop-u458174.png" crc="194852739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component_1___4@2x-crop-u480674.png" crc="4140549781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask_group_2-crop-u489764.png" crc="335498714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stickfiguresdrawingsourcefile-crop-u458175.png" crc="463828339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="component_1___4@2x-crop-u480675.png" crc="119995763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask_group_2-crop-u489765.png" crc="3804721012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="518877829" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3874708292" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="495135487" seo="true" mt="1585697058502" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4008711680" seo="true" mt="1585695462525" redirect="true"/>
+</manifest>
