@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blinddate.com" resolutions="1x" timestamp="1585697098774">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blinddate.com" resolutions="1x" timestamp="1585738643799">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="129987969" ref="index"/>
-    <file name="nomq_index.css" crc="4237319270" ref="index"/>
+    <file name="index.css" crc="4065226163" ref="index"/>
+    <file name="nomq_index.css" crc="4200827420" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -82,7 +82,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="icon_awesome_twitter_square.png" crc="3839598183" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
@@ -91,10 +90,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="icon_awesome_facebook_square.png" crc="4217703418" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -150,11 +147,11 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="518877829" ref="phone>index"/>
+      <file name="index.css" crc="77319514" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="3874708292" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="125230094" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="495135487" seo="true" mt="1585697058502" redirect="true"/>
+    <file name="index.html" crc="4256968697" seo="true" mt="1585738602688" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4008711680" seo="true" mt="1585695462525" redirect="true"/>
+  <file name="index.html" crc="228872308" seo="true" mt="1585738335219" redirect="true"/>
 </manifest>

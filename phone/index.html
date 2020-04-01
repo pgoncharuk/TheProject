@@ -18,10 +18,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>BlindDate</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=518877829" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=77319514" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3874708292"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=125230094"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -44,22 +44,31 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>Have an account?</p>
      </div>
     </div>
-    <div class="clearfix colelem" id="u53517-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content -->
-     <p>Talk first</p>
-    </div>
-    <div class="clip_frame colelem" id="u53514"><!-- image -->
-     <img class="block" id="u53514_img" src="../images/stickfiguresdrawingsourcefile-crop-u53514.png?crc=4011367059" alt="" data-heightwidthratio="0.9929328621908127" data-image-width="283" data-image-height="281"/>
-    </div>
-    <div class="browser_width colelem" id="u53568-6-bw">
-     <div class="clearfix" id="u53568-6"><!-- content -->
-      <p>A picture is not worth 1000 words.</p>
-      <p>Swipe culture is cancelled.</p>
+    <div class="clearfix colelem" id="pu53514"><!-- group -->
+     <div class="clip_frame grpelem" id="u53514"><!-- image -->
+      <img class="block" id="u53514_img" src="../images/stickfiguresdrawingsourcefile-crop-u53514.png?crc=4011367059" alt="" data-heightwidthratio="0.9929328621908127" data-image-width="283" data-image-height="281"/>
      </div>
-    </div>
-    <div class="PamphletWidget clearfix allow_click_through colelem" id="pamphletu53569" data-visibility="changed" style="visibility:hidden"><!-- none box -->
-     <div class="position_content" id="pamphletu53569_position_content">
+     <div class="clearfix grpelem" id="u53517-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content -->
+      <p>Talk first</p>
+     </div>
+     <div class="browser_width grpelem" id="u53568-6-bw">
+      <div class="clearfix" id="u53568-6"><!-- content -->
+       <p>A picture is not worth 1000 words.</p>
+       <p>Swipe culture is cancelled.</p>
+      </div>
+     </div>
+     <div class="PamphletWidget clearfix allow_click_through grpelem" id="pamphletu53569" data-visibility="changed" style="visibility:hidden"><!-- none box -->
       <div class="ThumbGroup clearfix colelem" data-col-pos="0" id="u53572"><!-- none box -->
-       <div class="popup_anchor allow_click_through grpelem" data-col-pos="0" id="u53573popup">
+       <div class="popup_anchor allow_click_through colelem" data-col-pos="1" id="u57213popup">
+        <div class="Thumb popup_element transition clearfix" data-col-pos="1" id="u57213"><!-- group -->
+         <div class="Button rounded-corners clearfix grpelem" id="buttonu57247" data-visibility="changed" style="visibility:hidden"><!-- container box -->
+          <div class="clearfix grpelem" id="u57248-4"><!-- content -->
+           <p>Sign up</p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor allow_click_through colelem" data-col-pos="0" id="u53573popup">
         <div class="Thumb popup_element transition clearfix" data-col-pos="0" id="u53573"><!-- group -->
          <div class="Button rounded-corners clearfix grpelem" id="buttonu53574" data-visibility="changed" style="visibility:hidden"><!-- container box -->
           <div class="clearfix grpelem" id="u53575-4"><!-- content -->
@@ -95,7 +104,45 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
     </style>
 
-    <form name="contact" method="POST" action="send_form_email.php" data-netlify="true" >
+    <form name="contact" method="POST" data-netlify="true" >
+
+    <input type="text"  name="name" value=""  />
+    <br>
+
+    <input type="text" id="email" name="email" value="" />
+    <br>
+
+    <input type="submit" value="Send" id="submit-button" />
+
+    </form>
+
+         </div>
+        </div>
+        <div class="Container invi borderbox clearfix grpelem" data-col-pos="1" id="u57224" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- group -->
+         <div class="clearfix grpelem" id="pu57253-4"><!-- column -->
+          <div class="clearfix colelem" id="u57253-4"><!-- content -->
+           <p>Enter Your Name</p>
+          </div>
+          <div class="clearfix colelem" id="u57255-4"><!-- content -->
+           <p>Enter Your Email</p>
+          </div>
+         </div>
+         <div class="grpelem" id="u57254"><!-- custom html -->
+             <style type="text/css">
+
+    textarea { background-color: #FFFFFF; border: 1px solid #CACACA; padding: 3px; margin: 2px 0 33px 0px; width: 100px; height: 76px; font: 14px Lato, sans-serif; }
+
+    form { font: 12px Lato, sans-serif; font-weight: bold; color: #214598; }
+
+    #submit-button { width: 150px; height: 50px; color: #FFFFFF; background-color: #000000;  margin: 0px 5px 0px 0px; font: Lato, sans-serif; font-size: xx-large; font-weight: bold; cursor: pointer; align: center; }
+
+    #submit-button:hover { background-color: #000000; color: #FFFFFF; cursor: pointer; }
+
+    input { background-color: #FFFFFF; border: 1px solid #cacaca; padding: 0px; margin: 20px 20px 20px 0px; width: 150px; height: 18px; float:center; font: 14px Lato, sans-serif; height: 25px; }
+
+    </style>
+
+    <form name="contact" method="POST" data-netlify="true" >
 
     <input type="text"  name="name" value=""  />
     <br>
@@ -202,7 +249,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>Why?</p>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="4049" data-content-above-spacer="4115" data-content-below-spacer="703" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="4116" data-content-above-spacer="4115" data-content-below-spacer="703" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <div class="clearfix grpelem" id="pu54142-24"><!-- column -->
     <div class="browser_width colelem" id="u54142-24-bw">
      <div class="clearfix" id="u54142-24"><!-- content -->
@@ -255,44 +302,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix colelem" id="u54219-4"><!-- content -->
         <p>Terms &amp; Conditions</p>
        </div>
-      </div>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="u53566-4"><!-- content -->
-     <p>Try now</p>
-    </div>
-    <div class="clearfix colelem" id="pu53508"><!-- group -->
-     <div class="browser_width grpelem" id="u53508-bw">
-      <div class="clearfix" id="u53508"><!-- group -->
-       <div class="clearfix grpelem" id="u53564-4"><!-- content -->
-        <p>Blind Date</p>
-       </div>
-       <div class="clearfix grpelem" id="u53560-4"><!-- content -->
-        <p>FAQ</p>
-       </div>
-       <div class="clearfix grpelem" id="u53561-4"><!-- content -->
-        <p>Contact Us</p>
-       </div>
-       <div class="clearfix grpelem" id="u53562-4"><!-- content -->
-        <p>Terms &amp; Conditions</p>
-       </div>
-       <div class="clearfix grpelem" id="u53563-4"><!-- content -->
-        <p>Privacy Policy</p>
-       </div>
-       <div class="clip_frame grpelem" id="u53558"><!-- image -->
-        <img class="block" id="u53558_img" src="../images/icon_zocial_instagram.png?crc=231828135" alt="" data-heightwidthratio="1" data-image-width="9" data-image-height="9"/>
-       </div>
-       <div class="clip_frame grpelem" id="u53556"><!-- image -->
-        <img class="block" id="u53556_img" src="../images/icon_awesome_twitter_square.png?crc=3839598183" alt="" data-heightwidthratio="1" data-image-width="9" data-image-height="9"/>
-       </div>
-       <div class="clip_frame grpelem" id="u53554"><!-- image -->
-        <img class="block" id="u53554_img" src="../images/icon_awesome_facebook_square.png?crc=4217703418" alt="" data-heightwidthratio="1" data-image-width="9" data-image-height="9"/>
-       </div>
-      </div>
-     </div>
-     <div class="browser_width grpelem" id="u53567-3-bw">
-      <div class="clearfix" id="u53567-3"><!-- content -->
-       <p>&nbsp;</p>
       </div>
      </div>
     </div>
