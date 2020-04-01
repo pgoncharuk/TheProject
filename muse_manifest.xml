@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blinddate.com" resolutions="1x" timestamp="1585738643799">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blinddate.com" resolutions="1x" timestamp="1585751173727">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4065226163" ref="index"/>
-    <file name="nomq_index.css" crc="4200827420" ref="index"/>
+    <file name="index.css" crc="250106633" ref="index"/>
+    <file name="nomq_index.css" crc="503463491" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -147,11 +147,11 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="77319514" ref="phone>index"/>
+      <file name="index.css" crc="321283372" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="125230094" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="134304789" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4256968697" seo="true" mt="1585738602688" redirect="true"/>
+    <file name="index.html" crc="4023153688" seo="true" mt="1585751121983" redirect="true"/>
   </folder>
-  <file name="index.html" crc="228872308" seo="true" mt="1585738335219" redirect="true"/>
+  <file name="index.html" crc="4081001116" seo="true" mt="1585751085331" redirect="true"/>
 </manifest>
